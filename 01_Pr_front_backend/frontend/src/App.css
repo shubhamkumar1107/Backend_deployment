@@ -1,0 +1,46 @@
+body {
+  background-color: #24302c;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.h1c {
+  font-size: xx-large;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.header {
+  color: aliceblue;
+  padding: 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 18px;
+  margin-bottom: 25px;
+}
+.logo {
+  margin-left: 45px;
+  color: #05885c;
+  font-weight: 700;
+}
+.ull {
+  display: flex;
+  flex-direction: row;
+}
+.ulli {
+  margin-right: 45px;
+  cursor: pointer;
+}
+.ulli:hover {
+  color: aliceblue;
+  border-radius: 2px;
+  scale: 125%;
+}
+.jokesDiv {
+  border: 2px solid black;
+  border-radius: 11px;
+  padding: 18px;
+  max-width: 400px;
+  min-height: 400px;
+  margin: 0 auto;
+}
