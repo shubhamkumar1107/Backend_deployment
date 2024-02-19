@@ -44,3 +44,16 @@ body {
   min-height: 400px;
   margin: 0 auto;
 }
+.storesDiv {
+  border: 2px solid black;
+  border-radius: 11px;
+  padding: 18px;
+  max-width: 600px;
+  min-height: 400px;
+  margin: 0 auto;
+}
+.jokeStore {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
