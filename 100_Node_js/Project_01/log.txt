@@ -1,0 +1,22 @@
+
+1711998102568:::1 GET: /api/users
+
+1711998122471:::1 GET: /api/users
+
+1711998136356:::1 GET: /api/users
+
+1711998155930:::1 GET: /api/users/1000
+
+1711998172414:::1 GET: /api/users/1001
+
+1711998570097:::1 GET: /api/users
+
+1711999044244:::1 POST: /api/users
+
+1711999420747:::1 PATCH: /api/users/1000
+
+1711999442257:::1 PATCH: /api/users/1000
+
+1711999483751:::1 POST: /api/users
+
+1711999612117:::1 GET: /api/users
